@@ -14,6 +14,18 @@ def roll_d4(num_roll): # num_roll is an ARGUMENT
         time.sleep(1)
         rolls += 1 # Increments rolls by 1 each time. 
         the_sum += result 
-    print(f"The total of the {num_roll} rolls was {sum}\n") # Use this line to print the sum. 
+    print(f"The total of the {num_roll} rolls was {the_sum}\n") # Use this line to print the sum. 
 
-roll_d4(4) 
+# roll_d4(4) No longer needed after testing. 
+
+# d6 
+
+# d8 
+
+# d10 
+
+# d12 
+
+# d20 
+
+# d100 
